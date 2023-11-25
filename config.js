@@ -25,16 +25,16 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
-  ['put your number', 'your-name', true] 
+  ['994403854383', '*~_.メ⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸メ._~*', true], 
+  ['994403854383', '*~_.メ⤹𝐒ɦ𝛂ͥƞι 𝐑𝛂ᴊͣᴘͫʊʈ⤸メ._~*', true] 
 ] 
 
 global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
 global.prems = ['put-premium-user-number','']
-global.nomorbot = 'your-bot-number' //Change it to your own
-global.nomorown = 'owner-number' //Change it to your own
-global.namebot = 'bot-name' //change it to your own
-global.nameown = 'owner-name' // change it to your own
+global.nomorbot = 'your-bot-number' //'923455116994'
+global.nomorown = 'owner-number' //'923455116994'
+global.namebot = 'bot-name' //'~_. SHANI_RAJOUT🤥🍭メ★_~'
+global.nameown = 'owner-name' // '~_. SHANI_RAJOUT🤥🍭メ★_~'
 
 //*============= ==============*/
 
@@ -72,7 +72,7 @@ let wibh = moment.tz('Asia/Dhaka').format('HH')
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
 global.sig = 'https://instagram.com/sla.sher_' //Link Instagrammu
-global.sgh = 'https://github.com/X-S-L-A-S-H-E-R/X-GEN-MD' //Link Githubmu
+global.sgh = 'https://github.com/Dangerous1332/X-GEN-MD' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/Iah40dk4H2EClu9HqlCxdH'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod' //Hmmm, This is up to you to fill in :v
@@ -118,14 +118,14 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 x-ɢᴇɴ-ᴍᴅ 」' //Main Watermark
+global.wm = '「 ~_. SHANI_RAJOUT🤥🍭メ★_~ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Slasher_Ser- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'x-ɢᴇɴ-ᴍᴅ'
-global.footerTXT = `x-ɢᴇɴ-ᴍᴅ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +880 1853 262586`
+global.wm3 = '~_. SHANI_RAJOUT🤥🍭メ★_~'
+global.footerTXT = `~_. SHANI_RAJOUT🤥🍭メ★_~ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +880 1853 262586`
 global.fig = `Follow me on instagram:\n\t\tinstagram.com/sla.sher_`
 global.botdate = `🛑 Date: ${week} ${date}`
 global.bottime = `🧑‍💻 Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ x-ɢᴇɴ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ ~_. SHANI_RAJOUT🤥🍭メ★_~'
 global.author = global.wm
 global.logo = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
 
@@ -135,7 +135,7 @@ global.logo = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
 global.thumb = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg' //Main Thumbnail
 global.thumb2 = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
 global.thumbbc = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.giflogo = 'https://i.imgur.com/XOvvvpP.mp4'
 global.thumblvlup = 'https://i.ibb.co/jLnr3K9/20231025-195821.jpg'
 global.hwaifu = ['https://i.ibb.co/jLnr3K9/20231025-195821.jpg']
 
@@ -177,7 +177,7 @@ global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅━━━═┅═❏ *Dᴀꜱʜʙᴏᴀʀᴅ* ❏═┅═━━━┅'
+global.dashmenu = '┅━━━═┅═❏ *~_. SHANI_RAJOUT🤥🍭メ★_~* ❏═┅═━━━┅'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
 global.cmenub = '┊🔖'                            //body
@@ -193,10 +193,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_sla.sher_'
-global.stickauth = `「 x-ɢᴇɴ-ᴍᴅ 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ x-ɢᴇɴ-ᴍᴅ'
+global.stickpack = '~_. SHANI_RAJOUT🤥🍭メ★_~'
+global.stickauth = `「~_. SHANI_RAJOUT🤥🍭メ★_~」`
+global.packname = '~_. SHANI_RAJOUT🤥🍭メ★_~'
+global.packname2 = '?'
 
 global.multiplier = 38 // The higher, The harder levelup
 
